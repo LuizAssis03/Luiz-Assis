@@ -13,7 +13,7 @@
 
 ### Dados do Github
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizAssis03&show_icons=true&theme=dracula)
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula)
 
 [![Luiz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAssis03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
