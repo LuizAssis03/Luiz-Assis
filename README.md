@@ -8,7 +8,7 @@
 - 🤓 Atualmente sou estudante de ADS (Análise e Desenvolvimento de Sistemas)<br>
 - 💻 Hoje em dia estou aprendendo teste e qualidade de software<br>
 - 💡 A maioria dos meus projetos vou postar no <a href="https://github.com/>">Github</a>
-- 📬 Você pode entrar em contato: Luizassis.2013@gmail.com<br>
+- 📬 Você pode entrar em contato comigo: Luizassis.2013@gmail.com<br>
 - 📚 Sigo no caminho do aprendizado<br>
 
 ### Dados do Github
