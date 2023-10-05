@@ -13,9 +13,12 @@
 
 ### Dados do Github
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizAssis03&show_icons=true&theme=dracula)
-
-[![Luiz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAssis03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizAssis03&show_icons=true&count_private=true&hide_border=false&title_color=FA8072&icon_color=FA8072&text_color=c9d1d9&bg_color=292929" alt="Luiz Assis github stats" /> 
+    
+&nbsp;
+&nbsp;<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAssis03&layout=compact&hide_border=false&title_color=FA8072&text_color=ffffff&bg_color=292929" />
+</div>
 
 ### Tecnologias do meu dia a dia
 
